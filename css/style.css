@@ -1,0 +1,582 @@
+.ImagemFundo{
+position: absolute;
+width: 1600px;
+height: 900px;
+left: 0px;
+top: 0px;
+background: linear-gradient(0deg, rgba(31, 31, 31, 0.5), rgba(31, 31, 31, 0.5)), url(image.png);
+}
+.NomeLoja{
+position: absolute;
+width: 152px;
+height: 28px;
+left: 731px;
+top: 32px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 28px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.Sacola{
+    position: absolute;
+    left: 99.86%;
+    right: 19.86%;
+    top: 8.29%;
+    bottom: 14.29%;
+    background: #FFFFFF;
+}
+.FraseGrande{
+position: absolute;
+width: 704px;
+height: 264px;
+left: 80px;
+top: 292px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 88px;
+color: #FFFFFF;
+}
+.FrasePequena{
+position: absolute;
+width: 459px;
+height: 40px;
+left: 80px;
+top: 616px;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+color: #FFFFFF;
+}
+.Esquerda{
+box-sizing: border-box;
+position: absolute;
+width: 56px;
+height: 56px;
+left: 83px;
+top: 796px;
+border: 1px solid #FFFFFF;
+}
+.Direita{
+box-sizing: border-box;
+position: absolute;
+width: 56px;
+height: 56px;
+left: 156px;
+top: 795px;
+border: 1px solid #FFFFFF;
+}
+.primeiroquadro{
+position: absolute;
+width: 704px;
+height: 560px;
+left: 80px;
+top: 1020px;
+}
+
+.titulodoquadro1{
+position: absolute;
+width: 581px;
+height: 60px;
+left: 939px;
+top: 1024px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+color: #0B1D03;
+}
+.frasedotitulo1{
+position: absolute;
+width: 581px;
+height: 160px;
+left: 939px;
+top: 1116px;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+color: #0B1D03;
+}
+.segundoquadro{
+position: absolute;
+width: 704px;
+height: 560px;
+left: 816px;
+top: 1724px;
+}
+.titulodoquadro2{
+position: absolute;
+width: 581px;
+height: 60px;
+left: 203px;
+top: 1724px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+color: #0B1D03;
+}
+.frasedotitulo2{
+position: absolute;
+width: 581px;
+height: 120px;
+left: 203px;
+top: 1816px;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+color: #0B1D03;
+}
+.titulodeitens{
+position: absolute;
+width: 581px;
+height: 60px;
+left: 80px;
+top: 2468px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+color: #A0996C;
+}
+.nomecafe{
+position: absolute;
+left: 19.83%;
+right: 19.61%;
+top: 7.14%;
+bottom: 87.86%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.04em;
+color: #0B1D03;
+}
+.imagecafe{
+position: absolute;
+left: 31.37%;
+right: 31.15%;
+top: 26.71%;
+bottom: 40.71%;
+background: url(image.png);
+}
+.precoabaixo{
+position: absolute;
+left: 32.24%;
+right: 49.46%;
+top: 65%;
+bottom: 27.86%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+color: #0B1D03;
+}
+.precooriginal{
+position: absolute;
+left: 53.59%;
+right: 32.03%;
+top: 66.43%;
+bottom: 28.57%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.04em;
+color: #969696;
+}
+.adicionar{
+position: absolute;
+width: 391px;
+height: 55px;
+left: calc(55% - 437px/2);
+top: calc(89% - 28px/2);
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 32px;
+text-align: center;
+color: #0b1d03;
+}
+.cafe1{
+position: absolute;
+width: 459px;
+height: 560px;
+border-radius: 8px;
+left: 5%;
+right: 0%;
+top: 209%;
+bottom: 0%;
+background: #F7F1E6;
+border-radius: 8px;
+display: -webkit-inline-box;
+}
+.cafe2{
+position: absolute;
+width: 459px;
+height: 560px;
+border-radius: 8px;
+left: 37%;
+right: 0%;
+top: 209%;
+bottom: 0%;
+background: #F7F1E6;
+border-radius: 8px;
+display: inline-flex;
+}
+
+      .cafe3{
+position: absolute;
+width: 459px;
+height: 560px;
+border-radius: 8px;
+left: 69%;
+right: 0%;
+top: 209%;
+bottom: 0%;
+background: #F7F1E6;
+border-radius: 8px;
+display: inline-flex;
+}
+
+      .cafe4{
+position: absolute;
+width: 459px;
+height: 560px;
+border-radius: 8px;
+left: 69%;
+right: 0%;
+top: 254%;
+bottom: 0%;
+background: #F7F1E6;
+border-radius: 8px;
+display: inline-flex;
+}
+      .cafe5{
+position: absolute;
+width: 459px;
+height: 560px;
+border-radius: 8px;
+left: 37%;
+right: 0%;
+top: 254%;
+bottom: 0%;
+background: #F7F1E6;
+border-radius: 8px;
+display: inline-flex;
+}
+
+      .cafe6{
+position: absolute;
+width: 459px;
+height: 560px;
+border-radius: 8px;
+left: 5%;
+right: 0%;
+top: 254%;
+bottom: 0%;
+background: #F7F1E6;
+border-radius: 8px;
+display: inline-flex;
+}
+
+      .cafes{
+position: absolute;
+width: 1441px;
+height: 1276px;
+left: 80px;}
+
+      .quarta{
+position: absolute;
+width: 1600px;
+height: 904px;
+left: 0px;
+top: 3864px;
+background: #FFFCF6;
+display: -webkit-box;
+
+    }
+
+      .entregagratisimg{
+
+left: 37.4%;
+right: 37.4%;
+top: 0%;
+bottom: 66.67%;
+background: url(image.png);
+    }
+
+    .entregagratis{
+
+left: 0%;
+right: 0%;
+top: 53.33%;
+bottom: 3.33%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.04em;
+color: #0B1D03;
+    }
+
+      .pagamentonaentregaimg{
+
+left: 37.4%;
+right: 37.4%;
+top: 0%;
+bottom: 66.67%;
+background: url(image.png);
+    }
+
+    .pagamentonaentrega{
+
+left: 0%;
+right: 0%;
+top: 53.33%;
+bottom: 3.33%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.04em;
+color: #0B1D03;
+    }
+
+      .politicadereembolsoimg{
+
+left: 37.4%;
+right: 37.4%;
+top: 0%;
+bottom: 66.67%;
+background: url(image.png);
+}
+
+      .politicadereembolso{
+ 
+left: 0%;
+right: 0%;
+top: 53.33%;
+bottom: 3.33%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.04em;
+color: #0B1D03;
+}
+
+
+      .descontoimg{
+
+left: 37.4%;
+right: 37.4%;
+top: 0%;
+bottom: 66.67%;
+background: url(image.png);
+}
+
+      .desconto{
+
+left: 0%;
+right: 0%;
+top: 53.33%;
+bottom: 3.33%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.04em;
+color: #0B1D03;
+}
+
+     .presentesimg{
+
+left: 37.4%;
+right: 37.4%;
+top: 0%;
+bottom: 66.67%;
+background: url(image.png);
+}
+
+      .presentes{
+
+left: 0%;
+right: 0%;
+top: 53.33%;
+bottom: 3.33%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.04em;
+color: #0B1D03;
+}
+
+     .catalogocafeimg{
+position: absolute;
+width: 704px;
+height: 559px;
+left: 0px;
+top: 109px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(image.png);
+}
+
+     .acessoriosimg{
+position: absolute;
+width: 704px;
+height: 560px;
+left: 749px;
+top: 109px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(image.png);
+}
+
+     .catalogo{
+position: absolute;
+width: 446px;
+height: 60px;
+left: 32px;
+top: 415px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+    color: #FFFCF6;
+}
+
+     .catalogof{
+position: absolute;
+left: 2.5%;
+right: 64.31%;
+top: 510px;
+bottom: 22.82%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0.04em;
+color: #FFFCF6;
+}
+
+     .acessorios{
+position: absolute;
+width: 279px;
+height: 60px;
+left: 792px;
+top: 415px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+color: #FFFCF6;
+}
+
+    .acessoriosf{
+position: absolute;
+left: 49.5%;
+right: 18.31%;
+top: 510px;
+bottom: 22.82%;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0.04em;
+color: #FFFCF6;
+}
+
+.mapa{
+
+position: absolute;
+width: 1600px;
+height: 800px;
+left: 0px;
+top: 4848px;
+background: #FFFFFF;
+}
+
+.cidade{
+box-sizing: border-box;
+
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+border: 2px solid #0B1D03;
+border-radius: 4px;
+}
+
+.endereco{
+box-sizing: border-box;
+
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+border: 2px solid #0B1D03;
+border-radius: 4px;
+}
+
+.mapaimg{
+
+width: 1440px;
+height: 512px;
+left: 80px;
+top: 5096px;
+}
+
+footer{
+    position: absolute;
+    width: 1600px;
+    height: 306px;
+    left: 0px;
+    top: 5500px;
+    background: #F7F1E6;
+    display: inline-flex;
+}
+
+.BlackCoffe{
+    padding: 2%;
+}
+.INSTITUCIONAL{
+    padding: 2%;
+}
+.PRODUTOS{
+    padding: 2%;
+}
+.REDES{
+    padding: 2%;
+}
